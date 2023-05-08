@@ -1,0 +1,4 @@
+﻿  Performing Custom Build Tools
+  'ml64' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+E:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): error MSB8066: “GetInInitializationOrderModuleList.asm”的自定义生成已退出，代码为 9009。

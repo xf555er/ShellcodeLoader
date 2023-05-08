@@ -1,0 +1,4 @@
+﻿  函数指针加载.cpp
+E:\Source Code\C_code\ShellcodeLoader\函数指针加载\函数指针加载.cpp(30,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  函数指针加载.vcxproj -> E:\Source Code\C_code\ShellcodeLoader\x64\Debug\函数指针加载.exe
+E:\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(228,5): warning : [vcpkg] Failed to gather app local DLL dependencies, program may not run. Set VcpkgApplocalDeps to false in your project file to suppress this warning. PowerShell arguments: -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\Source Code\C_code\ShellcodeLoader\x64\Debug\函数指针加载.exe" "E:\vcpkg\installed\x64-windows\debug\bin" "x64\Debug\函数指针加载.tlog\函数指针加载.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"

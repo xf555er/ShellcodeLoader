@@ -1,0 +1,8 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.35.32217.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: GetInInitializationOrderModuleList.asm
+cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  动态api加载_x64.cpp
+LINK : fatal error LNK1104: 无法打开文件“E:\Source Code\C_code\ShellcodeLoader\x64\Release\动态api加载_x64.exe”

@@ -1,0 +1,7 @@
+﻿  进程镂空注入.cpp
+E:\Source Code\C_code\ShellcodeLoader\进程镂空注入\进程镂空注入.cpp(21,19): warning C4129: “m”: 不可识别的字符转义序列
+E:\Source Code\C_code\ShellcodeLoader\进程镂空注入\进程镂空注入.cpp(23,9): warning C4129: “W”: 不可识别的字符转义序列
+E:\Source Code\C_code\ShellcodeLoader\进程镂空注入\进程镂空注入.cpp(23,9): warning C4129: “S”: 不可识别的字符转义序列
+E:\Source Code\C_code\ShellcodeLoader\进程镂空注入\进程镂空注入.cpp(23,9): warning C4129: “c”: 不可识别的字符转义序列
+  进程镂空注入.vcxproj -> E:\Source Code\C_code\ShellcodeLoader\Debug\进程镂空注入.exe
+E:\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(228,5): warning : [vcpkg] Failed to gather app local DLL dependencies, program may not run. Set VcpkgApplocalDeps to false in your project file to suppress this warning. PowerShell arguments: -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\Source Code\C_code\ShellcodeLoader\Debug\进程镂空注入.exe" "E:\vcpkg\installed\x86-windows\debug\bin" "Debug\进程镂空注入.tlog\进程镂空注入.write.1u.tlog" "Debug\vcpkg.applocal.log"

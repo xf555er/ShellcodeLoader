@@ -1,0 +1,10 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.35.32217.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: GetInInitializationOrderModuleList.asm
+cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  动态api加载_x64.cpp
+E:\Source Code\C_code\ShellcodeLoader\动态api加载_x64\动态api加载_x64.cpp(54): warning C4715: “getGetProcAddress”: 不是所有的控件路径都返回值
+  动态api加载_x64.vcxproj -> E:\Source Code\C_code\ShellcodeLoader\x64\Debug\动态api加载_x64.exe
+E:\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(228,5): warning : [vcpkg] Failed to gather app local DLL dependencies, program may not run. Set VcpkgApplocalDeps to false in your project file to suppress this warning. PowerShell arguments: -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\Source Code\C_code\ShellcodeLoader\x64\Debug\动态api加载_x64.exe" "E:\vcpkg\installed\x64-windows\debug\bin" "x64\Debug\动态api加载_x64.tlog\动态api加载_x64.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"

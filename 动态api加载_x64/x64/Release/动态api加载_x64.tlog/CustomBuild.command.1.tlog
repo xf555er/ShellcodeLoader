@@ -1,0 +1,2 @@
+^E:\SOURCE CODE\C_CODE\SHELLCODELOADER\动态API加载_X64\GETININITIALIZATIONORDERMODULELIST.ASM
+ml64 /Fo x64\Release\GetInInitializationOrderModuleList.obj /c GetInInitializationOrderModuleList.asm

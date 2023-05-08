@@ -1,0 +1,3 @@
+﻿  动态api加载.cpp
+  动态api加载.vcxproj -> E:\Source Code\C_code\ShellcodeLoader\x64\Debug\动态api加载_x86.exe
+E:\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(228,5): warning : [vcpkg] Failed to gather app local DLL dependencies, program may not run. Set VcpkgApplocalDeps to false in your project file to suppress this warning. PowerShell arguments: -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\Source Code\C_code\ShellcodeLoader\x64\Debug\动态api加载_x86.exe" "E:\vcpkg\installed\x64-windows\debug\bin" "x64\Debug\动态api加载_x86.tlog\动态api加载_x86.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"

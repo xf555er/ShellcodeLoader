@@ -1,0 +1,5 @@
+﻿  TLS加载.cpp
+MSVCRTD.lib(exe_main.obj) : warning LNK4078: 找到多个“.CRT”节，它们具有不同的特性(40400040)
+TLS加载.obj : error LNK2001: 无法解析的外部符号 __tls_used
+TLS加载.obj : error LNK2001: 无法解析的外部符号 __tls_callback
+E:\Source Code\C_code\ShellcodeLoader\x64\Debug\TLS加载.exe : fatal error LNK1120: 2 个无法解析的外部命令
